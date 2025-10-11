@@ -65,7 +65,7 @@ I’m a **Java Developer in training**, passionate about learning algorithms, pr
 
 ## 📬 Contact Me
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:appealpoudel05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Apil%20Poudel-red?logo=gmail&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/">
